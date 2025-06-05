@@ -1,7 +1,7 @@
 # Shadowrocket Config
 
 ## How to use
-Open [Shadowrocket](https://www.shadowrocketdownload.com) and add configuration from url: 
+Open [Shadowrocket](https://www.shadowrocketdownload.com) and add configurations from url: 
 - Main: `https://raw.githubusercontent.com/Lukentui/something-config/master/main.conf`
 - All thru: `https://raw.githubusercontent.com/Lukentui/something-config/master/all-thru.conf`
 
