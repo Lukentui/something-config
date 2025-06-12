@@ -9,7 +9,9 @@ DOMAIN-SUFFIX,nebius.com
 DOMAIN,2ip.ru
 DOMAIN-KEYWORD,porn
 DOMAIN-SUFFIX,setapp.com
-DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-KEYWORD,gemini
+DOMAIN-KEYWORD,deepmind
 DOMAIN-SUFFIX,loggly.com
+DOMAIN-SUFFIX,list-manage.com
 #Vultr
 IP-ASN,20473
