@@ -3,3 +3,20 @@ IP-CIDR,127.0.0.0/8
 IP-CIDR,172.16.0.0/12
 IP-CIDR,192.168.0.0/16
 IP-ASN,62041
+
+# Spotify
+DOMAIN-KEYWORD,spotify
+DOMAIN-SUFFIX,byspotify.com
+DOMAIN-SUFFIX,pscdn.co
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,spoti.fi
+DOMAIN-SUFFIX,spotify-everywhere.com
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spotify.design
+DOMAIN-SUFFIX,spotifycdn.com
+DOMAIN-SUFFIX,spotifycdn.net
+DOMAIN-SUFFIX,spotifycharts.com
+DOMAIN-SUFFIX,spotifycodes.com
+DOMAIN-SUFFIX,spotifyforbrands.com
+DOMAIN-SUFFIX,spotifyjobs.com
+DOMAIN-SUFFIX,spotify.link
