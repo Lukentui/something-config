@@ -12,5 +12,15 @@ DOMAIN-KEYWORD,deepmind
 DOMAIN-SUFFIX,loggly.com
 DOMAIN-SUFFIX,list-manage.com
 DOMAIN-SUFFIX,freedomhouse.org
+DOMAIN-SUFFIX,meetings.clients6.google.com
+DOMAIN-SUFFIX,meet.google.com
+DOMAIN-SUFFIX,hangouts.googleapis.com
+DOMAIN-SUFFIX,meetings.googleapis.com
+DOMAIN-SUFFIX,meet.google.com
+DOMAIN-SUFFIX,stream.meet.google
+DOMAIN-SUFFIX,meet.turns.goog
+DOMAIN-SUFFIX,workspace.turns.goog
+
+
 #Vultr
 IP-ASN,20473
