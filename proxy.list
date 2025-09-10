@@ -19,6 +19,11 @@ DOMAIN-SUFFIX,meetings.googleapis.com
 DOMAIN-SUFFIX,stream.meet.google
 DOMAIN-SUFFIX,meet.turns.goog
 DOMAIN-SUFFIX,workspace.turns.goog
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditspace.com
 
 
 #Vultr
