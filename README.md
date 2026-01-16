@@ -4,6 +4,7 @@
 Open [Shadowrocket](https://www.shadowrocketdownload.com) and add configurations from url: 
 - Main: `https://raw.githubusercontent.com/Lukentui/something-config/master/main.conf`
 - All thru: `https://raw.githubusercontent.com/Lukentui/something-config/master/all-thru.conf`
+- All thru but CIS: `https://raw.githubusercontent.com/Lukentui/something-config/master/everything-but-russian.conf`
 
 *All thru sends all traffic over proxy, useful for some situations
 
