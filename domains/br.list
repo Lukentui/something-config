@@ -102,7 +102,6 @@ DOMAIN-SUFFIX,aave.xyz
 DOMAIN-SUFFIX,aave.app
 DOMAIN-SUFFIX,gho.xyz
 DOMAIN-SUFFIX,onaave.com
-DOMAIN-KEYWORD,aave
 
 # Uniswap / Unichain
 DOMAIN-SUFFIX,uniswap.org
@@ -112,4 +111,3 @@ DOMAIN-SUFFIX,uniswap.exchange
 DOMAIN-SUFFIX,uniswapfoundation.org
 DOMAIN-SUFFIX,unisocks.exchange
 DOMAIN-SUFFIX,unichain.org
-DOMAIN-KEYWORD,uniswap
