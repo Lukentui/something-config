@@ -19,7 +19,6 @@ DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,repo.new
 DOMAIN-SUFFIX,dependabot.com
 DOMAIN,github-cloud.s3.amazonaws.com
-DOMAIN-KEYWORD,github
 
 # GitHub Copilot
 DOMAIN-SUFFIX,githubcopilot.com
@@ -33,8 +32,6 @@ DOMAIN-SUFFIX,protonvpn.com
 DOMAIN-SUFFIX,protonvpn.ch
 DOMAIN-SUFFIX,protonstatus.com
 DOMAIN-SUFFIX,simplelogin.io
-DOMAIN-KEYWORD,protonmail
-DOMAIN-KEYWORD,protonvpn
 
 # OpenAI / ChatGPT / Codex / Sora
 DOMAIN-SUFFIX,openai.com
@@ -57,8 +54,6 @@ DOMAIN,openai-api.arkoselabs.com
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,production-openaicom-storage.azureedge.net
-DOMAIN-KEYWORD,openai
-DOMAIN-KEYWORD,chatgpt
 
 # Anthropic / Claude / Claude Code
 DOMAIN-SUFFIX,anthropic.com
@@ -67,7 +62,6 @@ DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claude.site
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,clau.de
-DOMAIN-KEYWORD,anthropic
 
 # Microsoft Copilot / Azure AI
 DOMAIN-SUFFIX,copilot.microsoft.com
@@ -80,7 +74,6 @@ DOMAIN-SUFFIX,ai.azure.com
 DOMAIN-SUFFIX,cognitiveservices.azure.com
 DOMAIN,gateway.bingviz.microsoft.net
 DOMAIN,gateway.bingviz.microsoftapp.net
-DOMAIN-KEYWORD,copilot
 
 # Pornhub
 DOMAIN-SUFFIX,pornhub.com
@@ -93,7 +86,6 @@ DOMAIN-SUFFIX,porngub.com
 DOMAIN-SUFFIX,modelhub.com
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,phprcdn.com
-DOMAIN-KEYWORD,pornhub
 
 # Aave / GHO
 DOMAIN-SUFFIX,aave.com
